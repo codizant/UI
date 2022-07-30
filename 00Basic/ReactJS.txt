@@ -1,0 +1,27 @@
+Download a project: 
+cd to project folder
+run 
+D:\LEARNING\ReactJS\01-starting-setup>set NODE_OPTIONS=--openssl-legacy-provider
+
+D:\LEARNING\ReactJS\01-starting-setup>npm install
+D:\LEARNING\ReactJS\01-starting-setup>npm start
+
+
+
+set NODE_OPTIONS=--openssl-legacy-provider
+
+D:\LEARNING\ReactJS\01-starting-setup>npm start
+
+
+to give style:
+npm install --save styled-components
+
+D:\LEARNING\ReactJS\01-starting-project>npm install --save styled-components
+
+
+( <div className="new-expense__actions">
+       <button type="submit">Add Expense</button>
+      </div>
+    )
+	
+	
